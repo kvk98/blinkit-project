@@ -147,6 +147,9 @@ main>div {
     border-radius: 10px;
     background-color: #f6fff8;
 }
+footer {
+    text-align: center;
+}
 /*.catagory-3{
     display: flex;
     white-space:inherit;
